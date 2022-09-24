@@ -6,7 +6,7 @@
 
 ##
 
-<a href="https://app.daily.dev/fefe_mizidorio"><img align="right" src="https://api.daily.dev/devcards/789c0e50df2642189bf6fdfb6707c16a.png?r=wxo" width="240" alt="Felipe Merenda Izidorio's Dev Card"/></a>
+<a href="https://app.daily.dev/fefe_mizidorio"><img align="right" src="https://api.daily.dev/devcards/789c0e50df2642189bf6fdfb6707c16a.png?r=wxo" width="27.5%" alt="Felipe Merenda Izidorio's Dev Card"/></a>
 
 <div>
   <a href="https://github.com/felipe-mizidorio">
