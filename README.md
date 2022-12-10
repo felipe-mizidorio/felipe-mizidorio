@@ -6,10 +6,9 @@
 
 ##
 
-<a href="https://app.daily.dev/fefe_mizidorio"><img align="right" src="https://api.daily.dev/devcards/789c0e50df2642189bf6fdfb6707c16a.png?r=wxo" width="27.5%" alt="Felipe Merenda Izidorio's Dev Card"/></a>
-
 <div>
   <a href="https://github.com/felipe-mizidorio">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-mizidorio&theme=tokyonight&hide_border=false">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipe-mizidorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-mizidorio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
