@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe 👋
 - 📚 UTFPR - Computer Science
 - 🇧🇷 Brazilian
-- 1️⃣9️⃣ years old
+- 2️⃣0️⃣ years old
 - 🌱 I'm currently learning JAVA, C++ and Python
 
 ##
