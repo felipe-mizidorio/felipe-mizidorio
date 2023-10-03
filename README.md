@@ -2,7 +2,7 @@
 - 📚 UTFPR - Computer Science
 - 🇧🇷 Brazilian
 - 2️⃣0️⃣ years old
-- 🌱 I'm currently learning JAVA, C++ and Python
+- 🌱 I'm currently learning PyTorch
 
 ##
 
