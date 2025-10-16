@@ -9,7 +9,7 @@ I am a Machine Learning and Artificial Intelligence enthusiast with a solid acad
 I have developed robust skills in **Python**, **Scikit-Learn**, **PyTorch**, and other data science libraries, allowing me to work on data-driven solutions and explore AI-driven innovations. I'm always looking forward to connecting and contributing to meaningful data-centric projects.
 
 <!-- - 🔭 **Current Project:** [Project Name](link) -->
-- 🌱 **Learning:** Deepening my expertise in **Flutter**, **Firebase** and **Kotlin**
+- 🌱 **Learning:** Deepening my expertise in **Multi-Agent System** and **LLMs**
 <!-- - 👯 **Collaboration:** Open to projects related to **Machine Learning, AI, or Data Science** -->
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/felipe-merenda-izidorio) | [Email](mailto:felipemerenda1@gmail.com)
 
@@ -17,12 +17,6 @@ I have developed robust skills in **Python**, **Scikit-Learn**, **PyTorch**, and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipe-mizidorio&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipe-mizidorio&row=3&column=3&theme=default" alt="GitHub Trophies" />
 </p>
 
 ## Top Languages
